@@ -1,2 +1,4 @@
-# LIVE-SPLITTING-SCRIPT
-A PYTHON SCRIPT USED TO SPLIT LIVE AUDIO ACCORDING TO A CSV, BASED ON FFMPEG PYTHON
+# 演唱会音频分割脚本
+
+这个脚本用于分割一段较长的音频,使之成为数个较短的音频.分割的时间点由csv文件决定
+*该脚本由Gemini辅助生成,依赖ffmpeg*
